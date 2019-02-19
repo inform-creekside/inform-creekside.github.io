@@ -3,39 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://inform-creekside.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>/</loc>
+    <lastmod>2019-02-19T08:57:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://inform-creekside.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inform-creekside.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>/pta/</loc>
   </url>
   
   <url>
-    <loc>https://inform-creekside.github.io/pta/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://inform-creekside.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://inform-creekside.github.io/timeline/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>/timeline/</loc>
   </url>
   
 </urlset>
