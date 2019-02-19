@@ -12,8 +12,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/timeline/timelinejs/</loc>
+  </url>
+  
+  <url>
+    <loc>/timeline/</loc>
   </url>
   
   <url>
@@ -21,12 +24,29 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/timeline/texttimeline/</loc>
+  </url>
+  
+  <url>
+    <loc>/pta/statement/</loc>
+  </url>
+  
+  <url>
+    <loc>/pta/infosheet/</loc>
+  </url>
+  
+  <url>
+    <loc>/pta/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/timeline/</loc>
+    <loc>/tags/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

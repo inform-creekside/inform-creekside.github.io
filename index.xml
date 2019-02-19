@@ -11,5 +11,52 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Interactive version</title>
+      <link>/timeline/timelinejs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timeline/timelinejs/</guid>
+      <description> A timeline of events leading up to the ROMF/railyard site approval. At each of the time points below, there was no effort by Durham City, Durham County or GoTriangle to directly contact parents, guardians or teaching staff at Creekside Elementary.
+ </description>
+    </item>
+    
+    <item>
+      <title>Text version</title>
+      <link>/timeline/texttimeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timeline/texttimeline/</guid>
+      <description>.tg {border-collapse:collapse;border-spacing:0;border-color:#999;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;} .tg .tg-0lax{text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}     Year Headline Text Relevant link   2010 Site identification Go Triangle Alternatives Analysis identified 5 sites for the ROMF &amp;lt;https://gotriangle.org/sites/default/files/do_aa_final_report_appendices.pdf&amp;gt;   2012 May 2012 public comment period After four meetings, GoTriangle identified fifth Alston Ave site &amp;lt;https://gotriangle.org/sites/default/files/d-o_lrt_scoping_booklet_04-23-2012_rev_per_fta_v71.pdf&amp;gt;   2012 Environmental Analysis Process GoTriangle hosted more than 300 meetings with public groups    2015 GoTriangle notified Durham Public School District GoTriangle notified Durham Public School District about proposed ROMF at Farrington Road site.</description>
+    </item>
+    
+    <item>
+      <title>PTA statement</title>
+      <link>/pta/statement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pta/statement/</guid>
+      <description>Statement on Rail Operations Maintenance Facility The Creekside PTA expresses its concern about the potential negative impacts of a Rail Operations Maintenance Facility (ROMF) in such close proximity to a school, as well as the lack of substantive communication with the school community during the planning process.
+The Creekside PTA calls upon local leaders to immediately identify representatives to join a formal body that will work together to resolve concerns around potential impacts on student safety and quality of the learning environment.</description>
+    </item>
+    
+    <item>
+      <title>PTA information sheet</title>
+      <link>/pta/infosheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pta/infosheet/</guid>
+      <description>General information about the ROMF facility distributed at the Feburary 2018 meeting  All light rail trains will be stored, tested, and maintained at this location. This is not a light rail station, it is an industrial railyard maintenance facility. The ROMF will operate 24&amp;frasl;7. Creekside Elementary is approximately 350 yards from the proposed site. According to a mapping evaluation conducted by parents, Creekside Elementary will be closer to a ROMF than any other school in the country.</description>
+    </item>
+    
+    <item>
+      <title>presentation</title>
+      <link>/pta/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pta/presentation/</guid>
+      <description>Presentation February 4, 2018 PTA Advocacy Committee presentation</description>
+    </item>
+    
   </channel>
 </rss>
