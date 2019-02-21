@@ -20,11 +20,23 @@
   </url>
   
   <url>
+    <loc>/action/arcs-nc/</loc>
+  </url>
+  
+  <url>
     <loc>/pta/</loc>
   </url>
   
   <url>
     <loc>/timeline/texttimeline/</loc>
+  </url>
+  
+  <url>
+    <loc>/action/newsletter/</loc>
+  </url>
+  
+  <url>
+    <loc>/action/</loc>
   </url>
   
   <url>
