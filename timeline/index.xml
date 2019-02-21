@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Tick Tock</title>
+      <link>/timeline/texttimeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timeline/texttimeline/</guid>
+      <description>From 2012 to 2018, the school district, GoTriangle and the City/County government sytematically failed to inform parents and guardians at Creekside Elementary of the public zoning hearings and public comment periods for the rail yard site selection. As a result, almost all people with children at Creekside Elementary did not have a chance to participate in the site selection process.
+   Date Topic Detail Any direct contact of Creekside parents by the school district or GoTriangle?</description>
+    </item>
+    
+    <item>
       <title>Interactive version</title>
       <link>/timeline/timelinejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -18,15 +28,6 @@
       <guid>/timeline/timelinejs/</guid>
       <description> A timeline of events leading up to the ROMF/railyard site approval. At each of the time points below, there was no effort by GoTriangle, Durham City, Durham County or Creekside Elementary administration to directly contact or inform parents, guardians or teaching staff at Creekside Elementary.
  </description>
-    </item>
-    
-    <item>
-      <title>Tick Tock</title>
-      <link>/timeline/texttimeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/timeline/texttimeline/</guid>
-      <description>Date Topic Detail Any direct contact of Creekside parents by the school district?     2010-2012 Site identification Go Triangle Alternatives Analysis identified 5 sites for the ROMF No   May-12 Public comment period After four meetings, GoTriangle identified fifth Alston Ave site No   2012 Public comment period Hundreds of comments opposing the Cornwallis Road site proposed for ROMF/rail yard No   2012 Environmental Analysis Process GoTriangle hosted more than 300 meetings with public groups No   8/25/2015 GoTriangle notified Durham Public School District and Creekside administration GoTriangle notified Durham Public School District about proposed ROMF at Farrington Road site.</description>
     </item>
     
   </channel>
