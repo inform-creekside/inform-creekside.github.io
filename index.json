@@ -18,14 +18,14 @@
 	"title": "Location",
 	"tags": [],
 	"description": "",
-	"content": "This railyard maintenance facility is planned for the intersection of Ephesus Church and Farrington Roads. This site is less than 0.25 miles away from Creekside Elementary.\n"
+	"content": "This railyard maintenance facility is planned for an industrial site at the intersection of Ephesus Church and Farrington Roads, less than 0.25 miles away from Creekside Elementary.\n On December 3, 2018, the Durham City Council approved an industrial rezoning for this location. The nearest industrial zone in Durham is over 4 miles away in Research Triangle Park.  "
 },
 {
 	"uri": "/about/when/",
-	"title": "When will it start?",
+	"title": "Construction phase",
 	"tags": [],
 	"description": "",
-	"content": "The 23.4 acre railyard will house over 20 light rail trains and operate 24 hours a day, every day of the year. Several features of the railyard deserve attention including a) appearance, b) environmental noise pollution, c) chemical storage and d) traffic.\n"
+	"content": "If the light rail is funded by the end of 2019, construction will start in 2020.\nAccording to GoTriangle documentation there will be\n clear cutting of trees at site\n \u0026lsquo;drill and blast\u0026rsquo; explosives for rock excavation (page 77)\n To make the Farrington Road Bridge Underpass there will be a temporary closure of Farrington Road near the underpass\u0026hellip; involving a traffic detour using Ephesus Church Road, Pope Road, and Old Chapel Hill Road\n  "
 },
 {
 	"uri": "/about/railyard-features/",
@@ -60,7 +60,7 @@
 	"title": "Appearance",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "The site will be a rail yard, operations, and maintenance facility. As of the December 2018, there has been no full visual rendering of the appearance of the railyard from the road.\nThe site will include:\n high voltage overhead electrical wire throughout the train storage area with poles supporting the wire one acre operations and maintenance building train tracks to park 20+ light rail trains electrical substation the size of a mini mobile home parking lot for more than 100 employees because this site will not be accessible by train.  To conceal these industrial elements from the roadway, GoTriangle has proposed adding a 4 foot berm and 8 foot ornamental trees spaced 16 feet apart. The site dimensions do not allow any larger berm. The poles and high voltage electrical wire will be visible from the road.\nSee some sample photos of light rail yards below:\n"
 },
 {
 	"uri": "/timeline/timelinejs/",
@@ -88,14 +88,14 @@
 	"title": "Action",
 	"tags": [],
 	"description": "",
-	"content": "Unfortunately, the decision-making process for the rail yard site selection and approval has come and gone.\nFrom 2012 to 2018, the school district, GoTriangle and the City/County government sytematically failed to inform parents and guardians at Creekside Elementary of the public zoning hearings and public comment periods for the rail yard site selection. As a result, almost all people with children at Creekside Elementary did not have a chance to participate in the site selection process.\nOn December 3, 2018, the Durham City Council voted to approve the industrial zone at Farrington Road and Ephesus Church Road.\nThere are steps you can take moving forward.\nFacebook \nTwitter \nE-Mail \n"
+	"content": "Unfortunately, the decision making process for the rail yard site selection and approval has come and gone.\nFrom 2012 to 2018, the school district, GoTriangle and the City/County government sytematically failed to inform parents and guardians at Creekside Elementary of the public zoning hearings and public comment periods for the rail yard site selection. As a result, almost all people with children at Creekside Elementary did not have a chance to participate in the site selection process.\nOn December 3, 2018, the Durham City Council voted to approve the industrial zone at Farrington Road and Ephesus Church Road.\nThere are steps you can take moving forward.\nFacebook \nTwitter \nE-Mail \n"
 },
 {
 	"uri": "/about/railyard-features/noise/",
 	"title": "Noise",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "GoTriangle first documented sources of noise from the railyard operations maintenance facility in their October 2018 \u0026lsquo;noise and vibration technical report\u0026rsquo;.\nTheir report mentions the following ROMF noise sources:\n Wheel squeal  \u0026lsquo;tight radius curves within the proposed ROMF have the potential to cause wheel squeal\u0026rsquo;  \u0026lsquo;SEL at 50 feet for LRT wheel squeal is assumed to be 136 dBA)\u0026rsquo;   Power substation  \u0026lsquo;proposed substation within the ROMF is assumed to operate continuously\u0026rsquo;  \u0026lsquo;SEL at 50 feet of 99 dBA\u0026rsquo;   Tree removal  \u0026lsquo;removal of up to 600 feet of intervening trees from the proposed ROMF site between Interstate 40 and sensitive receptors west of Farrington Road\u0026rsquo;  \u0026lsquo;assumed to increase existing highway noise from Interstate 40 by 10 dB\u0026rsquo;   Train movements  \u0026lsquo;The schedule of LRT train movements within the ROMF is assumed to be as follows\u0026rsquo;:  Daytime movements (7:00 AM to 10:00 PM): 32 total movements Nighttime movements (10:00 PM to 7:00 AM): 48 total movements    "
 },
 {
 	"uri": "/pta/statement/",
@@ -109,7 +109,7 @@
 	"title": "Chemical Storage",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Upon a request from a homeowner in November 2018, GoTriangle provided a list of 144 chemicals that may be stored and transported to and from the railyard maintenance and operations facility.  Volumes range from household size to 1,000 gallon oil tanks. Many of these chemicals are hazardous, inflammable, and/or potentially explosive petroleum products. (Source: GoTriangle. \u0026lsquo;ROMF Fluids \u0026amp; Miscellaneous Materials Table.\u0026rsquo; November 12, 2018). Thus far, there are no specific emergency response plans or evacuation area estimates in the event of an explosion, spill or ground contamination.   "
 },
 {
 	"uri": "/pta/infosheet/",
@@ -123,7 +123,7 @@
 	"title": "Traffic",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Trains approaching the railyard operations maintenance facility (ROMF) from Chapel Hill will cross Farrington road near Wendell Road around 150 times a day, with road closures of 50 seconds for each crossing.\n These temporary road closures to allow train crossings will cause cars to stop, creating back-ups for people approaching Creekside Elementary from Farrington Road and 54.  Over 100 employees will park at the ROMF industrial location, presumably on a daily basis.\n During the construction phase starting in 2020, Farrington Road overpass will have temporary closures.\n Farrington Road will never be widened from its current two-lane configuration.\n  "
 },
 {
 	"uri": "/pta/presentation/",
@@ -145,4 +145,11 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "/about/railyard-features/noise/mitigation/",
+	"title": "mitigation",
+	"tags": [],
+	"description": "",
+	"content": "The GoTriangle 2018 noise report describes ways to mitigate (reduce) the noise:\n ROMF buildings: 5 dB berms: 10 dBA train wheel treatments: 2 dBA train design changes: 5 dBA  No updated figures have followed the October 2018 noise report.\n"
 }]
