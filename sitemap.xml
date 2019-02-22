@@ -68,15 +68,23 @@
   </url>
   
   <url>
+    <loc>/about/railyard-features/noise/mitigation/</loc>
+  </url>
+  
+  <url>
     <loc>/pta/infosheet/</loc>
   </url>
   
   <url>
-    <loc>/about/railyard-features/traffic/</loc>
+    <loc>/pta/presentation/</loc>
   </url>
   
   <url>
-    <loc>/pta/presentation/</loc>
+    <loc>/about/railyard-features/noise/how/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/railyard-features/traffic/</loc>
   </url>
   
   <url>
@@ -87,10 +95,6 @@
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/about/railyard-features/noise/mitigation/</loc>
   </url>
   
 </urlset>
