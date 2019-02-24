@@ -4,14 +4,14 @@
 	"title": "",
 	"tags": [],
 	"description": "",
-	"content": " This web site is a curated collection of publicly available and relevant information about the approved Railyard Operations Maintenance Facility (ROMF) site, as it relates to Creekside Elementary. This content is necessary because, as of February 2019, the entire school population has yet to receive information on the light rail railyard operations maintenance facility (ROMF), planned to be less than 0.25 miles away from the school.\nThe end does not justify the means.\n"
+	"content": " This web site is a curated collection of publicly available and relevant information about the approved Railyard Operations Maintenance Facility (ROMF) site as it relates to Creekside Elementary. As of February 2019, the entire school population has yet to receive information on the light rail railyard operations maintenance facility (ROMF), planned to be less than 0.25 miles away from the school.\nThe end does not justify the means.\n"
 },
 {
 	"uri": "/about/",
 	"title": "About",
 	"tags": [],
 	"description": "",
-	"content": "This web site is a compilation of publicly available information on the planned location, construction, railyard features, timeline, and PTA activity. After reading this information you can see the action page.\n"
+	"content": "This web site is a compilation of publicly available information on the planned location, construction, railyard features, timeline, and PTA activity. An action page wraps up this collection of information.\n"
 },
 {
 	"uri": "/about/maps/",
@@ -21,11 +21,18 @@
 	"content": "This railyard maintenance facility is planned for an industrial site at the intersection of Ephesus Church and Farrington Roads, less than 0.25 miles away from Creekside Elementary.\n On December 3, 2018, the Durham City Council approved an industrial rezoning for this location. The nearest industrial zone in Durham is over 4 miles away in Research Triangle Park.  "
 },
 {
+	"uri": "/about/railyard-features/noise/how/monitor/",
+	"title": "Monitoring Locations",
+	"tags": [],
+	"description": "",
+	"content": " GoTriangle estimated noise levels for areas near the railyard operations maintenance facility site based on long term noise monitoring sites nowhere near the ROMF site, west of I-40.  Closest long-term noise monitoring sites closest to Creekside and west of I-40 were:  214 Celeste Circle, Chapel Hill (LT-4) 4315 Randall Road, Durham (LT-5)    Annotated map of noise monitoring sites from noise report\n"
+},
+{
 	"uri": "/about/when/",
 	"title": "Construction phase",
 	"tags": [],
 	"description": "",
-	"content": "If the light rail is funded by the end of 2019, construction will start in 2020.\nAccording to GoTriangle documentation there will be\n clear cutting of trees at site\n \u0026lsquo;drill and blast\u0026rsquo; explosives for rock excavation (page 77)\n To make the Farrington Road Bridge Underpass there will be a temporary closure of Farrington Road near the underpass\u0026hellip; involving a traffic detour using Ephesus Church Road, Pope Road, and Old Chapel Hill Road\n  "
+	"content": "If the light rail is funded by the end of 2019, construction could start as early as 2020.\nAccording to GoTriangle documentation there will be\n clear cutting of trees at site\n \u0026lsquo;drill and blast\u0026rsquo; explosives for rock excavation (page 77)\n To make the Farrington Road Bridge Underpass there will be a temporary closure of Farrington Road near the underpass\u0026hellip; involving a traffic detour using Ephesus Church Road, Pope Road, and Old Chapel Hill Road\n  "
 },
 {
 	"uri": "/about/railyard-features/",
@@ -137,7 +144,7 @@
 	"title": "How will this affect the school?",
 	"tags": [],
 	"description": "",
-	"content": "Based on written information on the railyard operations maintenance facility (ROMF) provided in 2018, no evidence supports the conclusion that noise will not be a problem for children at Creekside Elementary.\nAbsence of evidence does not mean evidence of absence.\nWill there be noise at Creekside Elementary during the construction phase and during operation of the ROMF?\n Based on the two noise reports issued in 2015 and 2018, the ROMF offers the potential to repeatedly emit noise over 60 dB, the current Durham City ordinance limit, more than 30 times a day.\n GoTriangle estimated noise levels for areas near the railyard operations maintenance facility site based on long term noise monitoring sites nowhere near the ROMF site, west of I-40.\n Closest long-term noise monitoring sites closest to Creekside and west of I-40 were:  214 Celeste Circle, Chapel Hill (LT-4) 4315 Randall Road, Durham (LT-5)    Annotated map of noise monitoring sites from noise report\n At a meeting requested by Creekside parents in November 2018, GoTriangle confirmed that no noise testing had been done at Creekside Elementary.  "
+	"content": "Based on written information on the railyard operations maintenance facility (ROMF) provided in 2018, no evidence supports the conclusion that noise will not be a problem for children at Creekside Elementary.\nAbsence of evidence does not mean evidence of absence.\nWill there be noise at Creekside Elementary during the construction phase and during operation of the ROMF?\n Based on the two noise reports issued in 2015 and 2018, the ROMF offers the potential to repeatedly emit noise over 60 dB, the current Durham City ordinance limit, more than 30 times a day.\n At a meeting requested by Creekside parents in November 2018, GoTriangle confirmed that no noise testing had been done at Creekside Elementary.\n  "
 },
 {
 	"uri": "/about/railyard-features/traffic/",

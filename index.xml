@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Information on the rail yard for Creekside</title>
+    <title>Information on the railyard for Creekside</title>
     <link>/</link>
-    <description>Recent content on Information on the rail yard for Creekside</description>
+    <description>Recent content on Information on the railyard for Creekside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 19 Feb 2019 08:57:32 -0500</lastBuildDate>
@@ -19,6 +19,15 @@
       <guid>/about/maps/</guid>
       <description>This railyard maintenance facility is planned for an industrial site at the intersection of Ephesus Church and Farrington Roads, less than 0.25 miles away from Creekside Elementary.
  On December 3, 2018, the Durham City Council approved an industrial rezoning for this location. The nearest industrial zone in Durham is over 4 miles away in Research Triangle Park.  </description>
+    </item>
+    
+    <item>
+      <title>Monitoring Locations</title>
+      <link>/about/railyard-features/noise/how/monitor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/how/monitor/</guid>
+      <description>GoTriangle estimated noise levels for areas near the railyard operations maintenance facility site based on long term noise monitoring sites nowhere near the ROMF site, west of I-40.  Closest long-term noise monitoring sites closest to Creekside and west of I-40 were:  214 Celeste Circle, Chapel Hill (LT-4) 4315 Randall Road, Durham (LT-5)    Annotated map of noise monitoring sites from noise report</description>
     </item>
     
     <item>
