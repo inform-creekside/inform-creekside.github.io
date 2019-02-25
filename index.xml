@@ -12,17 +12,6 @@
     
     
     <item>
-      <title>Screening distances</title>
-      <link>/about/railyard-features/noise/how/distance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/railyard-features/noise/how/distance/</guid>
-      <description>Guidelines for evaluating the noise impact of a maintenance facility near a school may specify certain screening distances to select schools, but they are &amp;lsquo;NOT a substitute for case- and site-specific evaluation of potential risks and hazards&amp;rsquo;. These distances may not be a good predictor of an environmental hazard.
- Federal Transportation Administration (FTA) guidelines mention
- that &amp;lsquo;a maintenance facility near a school&amp;rsquo; (p. 33) is one location recommended for a &amp;lsquo;Detailed Noise Analysis&amp;rsquo;  The &amp;lsquo;screening distance for noise assessments&amp;rsquo; at a school is  1,000 feet for unobstructed distances 650 feet for obstructed distances (&amp;lsquo;with intervening buildings&amp;rsquo;)    According to the Environmental Protection Agency (EPA) school siting guidelines</description>
-    </item>
-    
-    <item>
       <title>Location</title>
       <link>/about/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,24 +19,6 @@
       <guid>/about/maps/</guid>
       <description>This railyard maintenance facility is planned for an industrial site at the intersection of Ephesus Church and Farrington Roads, less than 0.25 miles away from Creekside Elementary.
  On December 3, 2018, the Durham City Council approved an industrial rezoning for this location. The nearest industrial zone in Durham is over 4 miles away in Research Triangle Park.  </description>
-    </item>
-    
-    <item>
-      <title>Monitoring Locations</title>
-      <link>/about/railyard-features/noise/how/monitor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/railyard-features/noise/how/monitor/</guid>
-      <description>GoTriangle estimated noise levels for areas near the railyard operations maintenance facility site based on long term noise monitoring sites nowhere near the ROMF site, west of I-40.  Closest long-term noise monitoring sites closest to Creekside and west of I-40 were:  214 Celeste Circle, Chapel Hill (LT-4) 4315 Randall Road, Durham (LT-5)    Annotated map of noise monitoring sites from noise report</description>
-    </item>
-    
-    <item>
-      <title>Public Health</title>
-      <link>/about/railyard-features/noise/how/evidence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/railyard-features/noise/how/evidence/</guid>
-      <description>Children spend a large part of their day at school. Understanding any increases in the noise footprint at Creekside Elementary school caused by the railyard operation maintenance facility (ROMF) is important. A growing body of evidence points towards an association between chronic environmental noise exposure (including noise from rail) and declines in a child&amp;rsquo;s cognitive performance. To achive this end the noise is not an exposure causing hearing loss, but lower levels</description>
     </item>
     
     <item>
@@ -100,6 +71,28 @@ The Creekside PTA calls upon local leaders to immediately identify representativ
     </item>
     
     <item>
+      <title>Sources</title>
+      <link>/about/railyard-features/noise/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/sources/</guid>
+      <description>GoTriangle documents sources of noise from the railyard operations maintenance facility (ROMF) in their October 2018 &amp;lsquo;noise and vibration technical report&amp;rsquo;.
+ The 2018 report mentions the following ROMF noise sources:
+ Wheel squeal  &amp;lsquo;tight radius curves within the proposed ROMF have the potential to cause wheel squeal&amp;rsquo;  &amp;lsquo;SEL at 50 feet for LRT wheel squeal is assumed to be 136 dBA&amp;lsquo;   Power substation  &amp;lsquo;proposed substation within the ROMF is assumed to operate continuously&amp;rsquo;  &amp;lsquo;SEL at 50 feet of 99 dBA&amp;rsquo;   Tree removal  &amp;lsquo;removal of up to 600 feet of intervening trees from the proposed ROMF site between Interstate 40 and sensitive receptors west of Farrington Road&amp;rsquo;  &amp;lsquo;assumed to increase existing highway noise from Interstate 40 by 10 dB&amp;rsquo;   Train movements  &amp;lsquo;The schedule of LRT train movements within the ROMF is assumed to be as follows&amp;rsquo;:  Daytime movements (7:00 AM to 10:00 PM): 32 total movements Nighttime movements (10:00 PM to 7:00 AM): 48 total movements    The 2015 noise report assumes the ROMF will operate at &amp;lsquo;SEL at 50 feet&amp;rsquo; of 111 dBA (Table 3, page 19).</description>
+    </item>
+    
+    <item>
+      <title>Mitigation</title>
+      <link>/about/railyard-features/noise/mitigation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/mitigation/</guid>
+      <description>The GoTriangle 2018 noise report describes ways to mitigate (reduce) the noise:
+ ROMF buildings: 5 dB berms: 10 dBA train wheel treatments: 2 dBA train design changes: 5 dBA  The GoTriangle 2015 noise report describes another way to mitigate wheel squeal, absent from the 2018 report.
+ &amp;lsquo;Resilient/damped wheels are incorporated into project design to reduce wheel squeal noise 10-20 decibels.&amp;rsquo;   No written updates have followed the October 2018 noise report as of February 2018.</description>
+    </item>
+    
+    <item>
       <title>PTA information sheet</title>
       <link>/pta/infosheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,12 +102,41 @@ The Creekside PTA calls upon local leaders to immediately identify representativ
     </item>
     
     <item>
+      <title>Assessment</title>
+      <link>/about/railyard-features/noise/assessment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/assessment/</guid>
+      <description>GoTriangle estimated noise levels for areas near the railyard operations maintenance facility site based on long term noise monitoring sites nowhere near the ROMF site, west of I-40.  Closest long-term noise monitoring sites closest to Creekside and west of I-40 were:  214 Celeste Circle, Chapel Hill (LT-4) 4315 Randall Road, Durham (LT-5)    Annotated map of noise monitoring sites from noise report</description>
+    </item>
+    
+    <item>
       <title>February presentation to parents</title>
       <link>/pta/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pta/presentation/</guid>
       <description>February 4, 2018 PTA Advocacy Committee presentation</description>
+    </item>
+    
+    <item>
+      <title>Screening distances</title>
+      <link>/about/railyard-features/noise/how/distance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/how/distance/</guid>
+      <description>Guidelines for evaluating the noise impact of a maintenance facility near a school may specify certain screening distances to select schools, but they are &amp;lsquo;NOT a substitute for case- and site-specific evaluation of potential risks and hazards&amp;rsquo;. These distances may not be a good predictor of an environmental hazard.
+ Federal Transportation Administration (FTA) guidelines mention
+ that &amp;lsquo;a maintenance facility near a school&amp;rsquo; (p. 33) is one location recommended for a &amp;lsquo;Detailed Noise Analysis&amp;rsquo;  The &amp;lsquo;screening distance for noise assessments&amp;rsquo; at a school is  1,000 feet for unobstructed distances 650 feet for obstructed distances (&amp;lsquo;with intervening buildings&amp;rsquo;)    According to the Environmental Protection Agency (EPA) school siting guidelines</description>
+    </item>
+    
+    <item>
+      <title>Public Health</title>
+      <link>/about/railyard-features/noise/how/evidence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/railyard-features/noise/how/evidence/</guid>
+      <description>Children spend a large part of their day at school. Understanding any increases in the noise footprint at Creekside Elementary school caused by the railyard operation maintenance facility (ROMF) is important. A growing body of evidence points towards an association between chronic environmental noise exposure (including noise from rail) and declines in a child&amp;rsquo;s cognitive performance. To acheive this end, environmental noise is not at levels that cause hearing loss.</description>
     </item>
     
   </channel>

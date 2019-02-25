@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/railyard-features/noise/how/distance/</loc>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2019-02-19T08:57:32-05:00</lastmod>
   </url>
@@ -20,19 +16,11 @@
   </url>
   
   <url>
-    <loc>/about/railyard-features/noise/how/monitor/</loc>
-  </url>
-  
-  <url>
     <loc>/about/when/</loc>
   </url>
   
   <url>
     <loc>/about/railyard-features/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/railyard-features/noise/how/evidence/</loc>
   </url>
   
   <url>
@@ -76,6 +64,10 @@
   </url>
   
   <url>
+    <loc>/about/railyard-features/noise/sources/</loc>
+  </url>
+  
+  <url>
     <loc>/about/railyard-features/chemical/</loc>
   </url>
   
@@ -88,7 +80,15 @@
   </url>
   
   <url>
+    <loc>/about/railyard-features/noise/assessment/</loc>
+  </url>
+  
+  <url>
     <loc>/pta/presentation/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/railyard-features/traffic/</loc>
   </url>
   
   <url>
@@ -96,7 +96,11 @@
   </url>
   
   <url>
-    <loc>/about/railyard-features/traffic/</loc>
+    <loc>/about/railyard-features/noise/how/distance/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/railyard-features/noise/how/evidence/</loc>
   </url>
   
   <url>
