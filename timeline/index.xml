@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timeline on Information on the railyard for Creekside</title>
-    <link>/timeline/</link>
+    <link>https://wecareaboutcreekside.com/timeline/</link>
     <description>Recent content in Timeline on Information on the railyard for Creekside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/timeline/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wecareaboutcreekside.com/timeline/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tick Tock</title>
-      <link>/timeline/ticktock/</link>
+      <link>https://wecareaboutcreekside.com/timeline/ticktock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/timeline/ticktock/</guid>
+      <guid>https://wecareaboutcreekside.com/timeline/ticktock/</guid>
       <description>From 2012 to 2018, the school district, GoTriangle and the City/County government sytematically failed to inform parents and guardians at Creekside Elementary of the public zoning hearings and public comment periods for the rail yard site selection. As a result, almost all people with children at Creekside Elementary did not have a chance to participate in the site selection process.
    Date Topic Detail Any direct contact of Creekside parents by the school district or GoTriangle?</description>
     </item>
     
     <item>
       <title>Interactive version</title>
-      <link>/timeline/timelinejs/</link>
+      <link>https://wecareaboutcreekside.com/timeline/timelinejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/timeline/timelinejs/</guid>
+      <guid>https://wecareaboutcreekside.com/timeline/timelinejs/</guid>
       <description> A timeline of events leading up to the ROMF/railyard site approval. At each of the time points below, there was no effort by GoTriangle, Durham City, Durham County or Creekside Elementary administration to directly contact or inform parents, guardians or teaching staff at Creekside Elementary.
  </description>
     </item>

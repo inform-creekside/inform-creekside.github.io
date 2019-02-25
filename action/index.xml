@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Action on Information on the railyard for Creekside</title>
-    <link>/action/</link>
+    <link>https://wecareaboutcreekside.com/action/</link>
     <description>Recent content in Action on Information on the railyard for Creekside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/action/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wecareaboutcreekside.com/action/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARCS</title>
-      <link>/action/arcs-nc/</link>
+      <link>https://wecareaboutcreekside.com/action/arcs-nc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/action/arcs-nc/</guid>
+      <guid>https://wecareaboutcreekside.com/action/arcs-nc/</guid>
       <description>Advocates for residential communities and and schools (ARCS) is a local policy group that supports sensible growth. Their action page has useful information.</description>
     </item>
     
     <item>
       <title>newsletter</title>
-      <link>/action/newsletter/</link>
+      <link>https://wecareaboutcreekside.com/action/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/action/newsletter/</guid>
+      <guid>https://wecareaboutcreekside.com/action/newsletter/</guid>
       <description>Subscribe to a newsletter to learn the latest on any development activity occuring around Creekside Elementary.
 Name: Email:  </description>
     </item>

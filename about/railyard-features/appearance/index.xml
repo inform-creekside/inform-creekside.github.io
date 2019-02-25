@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appearance on Information on the railyard for Creekside</title>
-    <link>/about/railyard-features/appearance/</link>
+    <link>https://wecareaboutcreekside.com/about/railyard-features/appearance/</link>
     <description>Recent content in Appearance on Information on the railyard for Creekside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/about/railyard-features/appearance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wecareaboutcreekside.com/about/railyard-features/appearance/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

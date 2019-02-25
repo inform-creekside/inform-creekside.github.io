@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Information on the railyard for Creekside</title>
-    <link>/about/</link>
+    <link>https://wecareaboutcreekside.com/about/</link>
     <description>Recent content in About on Information on the railyard for Creekside</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wecareaboutcreekside.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Location</title>
-      <link>/about/maps/</link>
+      <link>https://wecareaboutcreekside.com/about/maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/maps/</guid>
+      <guid>https://wecareaboutcreekside.com/about/maps/</guid>
       <description>This railyard maintenance facility is planned for an industrial site at the intersection of Ephesus Church and Farrington Roads, less than 0.25 miles away from Creekside Elementary.
  On December 3, 2018, the Durham City Council approved an industrial rezoning for this location. The nearest industrial zone in Durham is over 4 miles away in Research Triangle Park.  </description>
     </item>
